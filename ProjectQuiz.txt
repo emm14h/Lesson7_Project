@@ -1,9 +1,9 @@
-*****************************************************
-Project Name:  Recipe Display Application
+************************************************************************
+Project Name:  Recipe Display Application  --  Project Quiz
 Author: 
 Date:   
 Participation Assignment (25 points)
-*****************************************************
+************************************************************************
 
 Instructions:  
 Answer the following questions for Lesson 7 Assignment
@@ -12,7 +12,7 @@ Answer the following questions for Lesson 7 Assignment
 Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
-
+- When the code is reading the links you want it to load the library file first because the code will load the first script tag it reads.
 
 
 
@@ -30,6 +30,7 @@ Why should you avoid including jQuery in a project if you don't need it?
 Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
+- With a $ sign.
 
 
 
@@ -39,3 +40,9 @@ How does every jQuery statement start?
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+-A content delivery network is a system of distributed servers that deliver webpages and
+other Web content to a user based on the geographic locations of the user,the origin of the webpage and a content delivery server.
+1.This service is effective in speeding the delivery of content of websites.
+2.CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time.
+3.Built-in version control
+4. Files may be pre-cached
